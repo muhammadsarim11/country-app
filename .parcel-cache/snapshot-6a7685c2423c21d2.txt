@@ -1,0 +1,19 @@
+18
+114C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\components\CountryDetail.jsx133832135206640238 0
+98C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\package.json133832135206741595 0
+107C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\components\Header.jsx133832135206650211 0
+93C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\App.css133832135206590378 0
+103C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\package-lock.json133833986319696577 0
+114C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\components\CountryDetail.css133832135206637385 0
+93C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\App.jsx133832135206600354 0
+96C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\components133832135206669407 1
+102C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\countriesData.js133832135206723759 0
+96C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\index.html133832135206731622 0
+95C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\index.jsx133832135206731622 0
+108C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\components\Contact.jsx133832135206610327 0
+114C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\components\CountriesList.jsx133832135206620294 0
+112C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\components\CountryCard.jsx133832135206620294 0
+106C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\components\Error.jsx133832135206650211 0
+105C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\components\Home.jsx133832135206660193 0
+110C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\components\SearchBar.jsx133832135206669407 0
+111C:\Users\HT\Desktop\react - full -course\react-course\23_dynamic-routing\STARTER-CODE\components\SelectMenu.jsx133832135206669407 0
